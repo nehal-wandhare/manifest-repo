@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: vote
-        image: nehalwandhare/vote:latest
+        image: nehalwandhare/vote:d995cb331c0beeeb0898386aae32948abcadbfe1
         ports:
         - containerPort: 80
 
